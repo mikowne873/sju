@@ -18,9 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.polsl.pl/rau
 
-url: https://mikowne873.github.com
+url: https://mikowne873.github.io/sju/
 # your url: https://mikowne873.github.com
 
 permalink: /:title/
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: https://mikowne873.github.com
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
+#linkedin: mylinkedin
+github: mikowne873
+email: mikowne873@student.polsl.pl
 
 authors:
   johndoe:
